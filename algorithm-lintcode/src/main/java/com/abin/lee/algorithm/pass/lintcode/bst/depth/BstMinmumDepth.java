@@ -4,6 +4,7 @@ package com.abin.lee.algorithm.pass.lintcode.bst.depth;
  * Created by abin on 2017/12/10 2017/12/10.
  * algorithm-pass
  * com.abin.lee.algorithm.pass.lintcode.bst.depth
+ * LintCode-155. 二叉树的最小深度
  * 给定一个二叉树，找出其最小深度。
  二叉树的最小深度为根节点到最近叶子节点的距离。
  http://blog.csdn.net/skp127/article/details/51654916
